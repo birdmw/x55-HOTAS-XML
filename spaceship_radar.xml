@@ -1,0 +1,31 @@
+			        		<ActionMaps ignoreVersion="1" >
+			        		
+			        			<actionmap name="spaceship_radar">
+			        			
+			        				<action name="v_radar_cycle_mode_fwd">
+			        					<rebind device="joystick" input="js1_button6" />
+			        				</action>
+			        			
+			        				<action name="v_radar_cycle_mode_back">
+			        					<rebind device="joystick" input="js1_button7" />
+			        				</action>
+			        			
+			        				<action name="v_radar_cycle_zoom_fwd">
+			        					<rebind device="joystick" input="js1_button8" />
+			        				</action>
+			        			
+			        				<action name="v_radar_cycle_zoom_back">
+			        					<rebind device="joystick" input="js1_button9" />
+			        				</action>
+			        			
+			        				<action name="v_radar_cycle_focus_fwd">
+			        					<rebind device="joystick" input="js1_button10" />
+			        				</action>
+			        			
+			        				<action name="v_radar_cycle_focus_back">
+			        					<rebind device="joystick" input="js1_button11" />
+			        				</action>
+			        			
+			        			</actionmap>
+			        		
+			        		</ActionMaps>

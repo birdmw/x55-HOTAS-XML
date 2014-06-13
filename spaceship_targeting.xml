@@ -1,0 +1,28 @@
+			        		<ActionMaps ignoreVersion="1" >
+			        		
+			        			<actionmap name="spaceship_targeting">
+			        			
+			        				<action name="v_target_nearest_hostile">
+			        					<rebind device="joystick" input="js2_button9" />
+			        				</action>
+			        			
+			        				<action name="v_target_cycle_hostile_fwd">
+			        					<rebind device="joystick" input="js2_button7" />
+			        				</action>
+			        			
+			        				<action name="v_target_cycle_all_fwd">
+			        					<rebind device="joystick" input="js2_button8" />
+			        				</action>
+			        			
+			        				<action name="v_target_cycle_all_back">
+			        					<rebind device="joystick" input="js2_button10" />
+			        				</action>
+
+			        				<action name="v_target_toggle_pinned_focused">
+			        					<rebind device="keyboard" input="g" />
+			        				</action>
+			        			
+			        			</actionmap>
+			        		
+			        		</ActionMaps>
+			        	

@@ -1,0 +1,23 @@
+			        		<ActionMaps ignoreVersion="1" >
+			        		
+			        			<actionmap name="spaceship_view">
+			        			
+			        				<action name="v_view_yaw_left">
+			        					<rebind device="joystick" input="js2_hat1_left" />
+			        				</action>
+			        			
+			        				<action name="v_view_yaw_right">
+			        					<rebind device="joystick" input="js2_hat1_right" />
+			        				</action>
+			        			
+			        				<action name="v_view_pitch_up">
+			        					<rebind device="joystick" input="js2_hat1_up" />
+			        				</action>
+			        			
+			        				<action name="v_view_pitch_down">
+			        					<rebind device="joystick" input="js2_hat1_down" />
+			        				</action>
+			        			
+			        			</actionmap>
+			        		
+			        		</ActionMaps>

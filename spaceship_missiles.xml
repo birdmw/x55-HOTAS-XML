@@ -1,0 +1,23 @@
+			        		<ActionMaps ignoreVersion="1" >
+			        		
+			        			<actionmap name="spaceship_missiles">
+			        			
+			        				<action name="v_weapon_launch_missile">
+			        					<rebind device="joystick" input="js2_button2" />
+			        				</action>
+			        			
+			        				<action name="v_weapon_toggle_arm_missile">
+			        					<rebind device="joystick" input="js2_button13" />
+			        				</action>
+			        			
+			        				<action name="v_weapon_cycle_missile_fwd">
+			        					<rebind device="joystick" input="js2_button12" />
+			        				</action>
+			        			
+			        				<action name="v_weapon_cycle_missile_back">
+			        					<rebind device="joystick" input="js2_button14" />
+			        				</action>
+			        			
+			        			</actionmap>
+			        		
+			        		</ActionMaps>

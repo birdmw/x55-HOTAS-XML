@@ -1,0 +1,28 @@
+			        		<ActionMaps ignoreVersion="1" >
+			        		
+			        			<actionmap name="spaceship_weapons">
+			        			
+			        				<action name="v_attack1_group1">
+			        					<rebind device="joystick" input="js2_button1" />
+			        				</action>
+			        			
+			        				<action name="v_attack1_group2">
+			        					<rebind device="joystick" input="js2_button4" />
+			        				</action>
+			        			
+			        				<action name="v_attack1_group3">
+			        					<rebind device="joystick" input="js2_button5" />
+			        				</action>
+			        			
+			        				<action name="v_attack1_group4">
+			        					<rebind device="joystick" input="js2_button6" />
+			        				</action>
+
+			        				<action name="v_weapon_cycle_ammo_fwd">
+			        					<rebind device="joystick" input="js2_button11" />
+			        				</action>
+			        			
+			        			</actionmap>
+			        		
+			        		</ActionMaps>
+			        	
